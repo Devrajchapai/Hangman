@@ -1,0 +1,608 @@
+{
+    "easy": {
+      "1": {
+        "question": "What color is the sky on a clear day?",
+        "answer": "Blue"
+      },
+      "2": {
+        "question": "What is 2 + 2?",
+        "answer": "Four"
+      },
+      "3": {
+        "question": "What do cows drink?",
+        "answer": "Water"
+      },
+      "4": {
+        "question": "Which fruit is yellow and curved?",
+        "answer": "Banana"
+      },
+      "5": {
+        "question": "Which animal barks?",
+        "answer": "Dog"
+      },
+      "6": {
+        "question": "What is the opposite of cold?",
+        "answer": "Hot"
+      },
+      "7": {
+        "question": "What is the color of grass?",
+        "answer": "Green"
+      },
+      "8": {
+        "question": "Which day comes after Monday?",
+        "answer": "Tuesday"
+      },
+      "9": {
+        "question": "What do you wear on your feet?",
+        "answer": "Shoes"
+      },
+      "10": {
+        "question": "What is the first month of the year?",
+        "answer": "January"
+      },
+      "11": {
+        "question": "What color is the sky on a clear day?",
+        "answer": "Blue"
+      },
+      "12": {
+        "question": "What is 2 + 2?",
+        "answer": "Four"
+      },
+      "13": {
+        "question": "What do cows drink?",
+        "answer": "Water"
+      },
+      "14": {
+        "question": "Which fruit is yellow and curved?",
+        "answer": "Banana"
+      },
+      "15": {
+        "question": "Which animal barks?",
+        "answer": "Dog"
+      },
+      "16": {
+        "question": "What is the opposite of cold?",
+        "answer": "Hot"
+      },
+      "17": {
+        "question": "What is the color of grass?",
+        "answer": "Green"
+      },
+      "18": {
+        "question": "Which day comes after Monday?",
+        "answer": "Tuesday"
+      },
+      "19": {
+        "question": "What do you wear on your feet?",
+        "answer": "Shoes"
+      },
+      "20": {
+        "question": "What is the first month of the year?",
+        "answer": "January"
+      },
+      "21": {
+        "question": "What color is the sky on a clear day?",
+        "answer": "Blue"
+      },
+      "22": {
+        "question": "What is 2 + 2?",
+        "answer": "Four"
+      },
+      "23": {
+        "question": "What do cows drink?",
+        "answer": "Water"
+      },
+      "24": {
+        "question": "Which fruit is yellow and curved?",
+        "answer": "Banana"
+      },
+      "25": {
+        "question": "Which animal barks?",
+        "answer": "Dog"
+      },
+      "26": {
+        "question": "What is the opposite of cold?",
+        "answer": "Hot"
+      },
+      "27": {
+        "question": "What is the color of grass?",
+        "answer": "Green"
+      },
+      "28": {
+        "question": "Which day comes after Monday?",
+        "answer": "Tuesday"
+      },
+      "29": {
+        "question": "What do you wear on your feet?",
+        "answer": "Shoes"
+      },
+      "30": {
+        "question": "What is the first month of the year?",
+        "answer": "January"
+      },
+      "31": {
+        "question": "What color is the sky on a clear day?",
+        "answer": "Blue"
+      },
+      "32": {
+        "question": "What is 2 + 2?",
+        "answer": "Four"
+      },
+      "33": {
+        "question": "What do cows drink?",
+        "answer": "Water"
+      },
+      "34": {
+        "question": "Which fruit is yellow and curved?",
+        "answer": "Banana"
+      },
+      "35": {
+        "question": "Which animal barks?",
+        "answer": "Dog"
+      },
+      "36": {
+        "question": "What is the opposite of cold?",
+        "answer": "Hot"
+      },
+      "37": {
+        "question": "What is the color of grass?",
+        "answer": "Green"
+      },
+      "38": {
+        "question": "Which day comes after Monday?",
+        "answer": "Tuesday"
+      },
+      "39": {
+        "question": "What do you wear on your feet?",
+        "answer": "Shoes"
+      },
+      "40": {
+        "question": "What is the first month of the year?",
+        "answer": "January"
+      },
+      "41": {
+        "question": "What color is the sky on a clear day?",
+        "answer": "Blue"
+      },
+      "42": {
+        "question": "What is 2 + 2?",
+        "answer": "Four"
+      },
+      "43": {
+        "question": "What do cows drink?",
+        "answer": "Water"
+      },
+      "44": {
+        "question": "Which fruit is yellow and curved?",
+        "answer": "Banana"
+      },
+      "45": {
+        "question": "Which animal barks?",
+        "answer": "Dog"
+      },
+      "46": {
+        "question": "What is the opposite of cold?",
+        "answer": "Hot"
+      },
+      "47": {
+        "question": "What is the color of grass?",
+        "answer": "Green"
+      },
+      "48": {
+        "question": "Which day comes after Monday?",
+        "answer": "Tuesday"
+      },
+      "49": {
+        "question": "What do you wear on your feet?",
+        "answer": "Shoes"
+      },
+      "50": {
+        "question": "What is the first month of the year?",
+        "answer": "January"
+      }
+    },
+    "medium": {
+      "1": {
+        "question": "What is the capital of Italy?",
+        "answer": "Rome"
+      },
+      "2": {
+        "question": "What is the boiling point of water in Celsius?",
+        "answer": "Hundred"
+      },
+      "3": {
+        "question": "Which animal is known as the king of the jungle?",
+        "answer": "Lion"
+      },
+      "4": {
+        "question": "What do you call molten rock after it has erupted?",
+        "answer": "Lava"
+      },
+      "5": {
+        "question": "Which ocean is the largest?",
+        "answer": "Pacific"
+      },
+      "6": {
+        "question": "What part of the plant conducts photosynthesis?",
+        "answer": "Leaf"
+      },
+      "7": {
+        "question": "Which gas is essential for humans to breathe?",
+        "answer": "Oxygen"
+      },
+      "8": {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Davinci"
+      },
+      "9": {
+        "question": "Which instrument has six strings?",
+        "answer": "Guitar"
+      },
+      "10": {
+        "question": "What planet do we live on?",
+        "answer": "Earth"
+      },
+      "11": {
+        "question": "What is the capital of Italy?",
+        "answer": "Rome"
+      },
+      "12": {
+        "question": "What is the boiling point of water in Celsius?",
+        "answer": "Hundred"
+      },
+      "13": {
+        "question": "Which animal is known as the king of the jungle?",
+        "answer": "Lion"
+      },
+      "14": {
+        "question": "What do you call molten rock after it has erupted?",
+        "answer": "Lava"
+      },
+      "15": {
+        "question": "Which ocean is the largest?",
+        "answer": "Pacific"
+      },
+      "16": {
+        "question": "What part of the plant conducts photosynthesis?",
+        "answer": "Leaf"
+      },
+      "17": {
+        "question": "Which gas is essential for humans to breathe?",
+        "answer": "Oxygen"
+      },
+      "18": {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Davinci"
+      },
+      "19": {
+        "question": "Which instrument has six strings?",
+        "answer": "Guitar"
+      },
+      "20": {
+        "question": "What planet do we live on?",
+        "answer": "Earth"
+      },
+      "21": {
+        "question": "What is the capital of Italy?",
+        "answer": "Rome"
+      },
+      "22": {
+        "question": "What is the boiling point of water in Celsius?",
+        "answer": "Hundred"
+      },
+      "23": {
+        "question": "Which animal is known as the king of the jungle?",
+        "answer": "Lion"
+      },
+      "24": {
+        "question": "What do you call molten rock after it has erupted?",
+        "answer": "Lava"
+      },
+      "25": {
+        "question": "Which ocean is the largest?",
+        "answer": "Pacific"
+      },
+      "26": {
+        "question": "What part of the plant conducts photosynthesis?",
+        "answer": "Leaf"
+      },
+      "27": {
+        "question": "Which gas is essential for humans to breathe?",
+        "answer": "Oxygen"
+      },
+      "28": {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Davinci"
+      },
+      "29": {
+        "question": "Which instrument has six strings?",
+        "answer": "Guitar"
+      },
+      "30": {
+        "question": "What planet do we live on?",
+        "answer": "Earth"
+      },
+      "31": {
+        "question": "What is the capital of Italy?",
+        "answer": "Rome"
+      },
+      "32": {
+        "question": "What is the boiling point of water in Celsius?",
+        "answer": "Hundred"
+      },
+      "33": {
+        "question": "Which animal is known as the king of the jungle?",
+        "answer": "Lion"
+      },
+      "34": {
+        "question": "What do you call molten rock after it has erupted?",
+        "answer": "Lava"
+      },
+      "35": {
+        "question": "Which ocean is the largest?",
+        "answer": "Pacific"
+      },
+      "36": {
+        "question": "What part of the plant conducts photosynthesis?",
+        "answer": "Leaf"
+      },
+      "37": {
+        "question": "Which gas is essential for humans to breathe?",
+        "answer": "Oxygen"
+      },
+      "38": {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Davinci"
+      },
+      "39": {
+        "question": "Which instrument has six strings?",
+        "answer": "Guitar"
+      },
+      "40": {
+        "question": "What planet do we live on?",
+        "answer": "Earth"
+      },
+      "41": {
+        "question": "What is the capital of Italy?",
+        "answer": "Rome"
+      },
+      "42": {
+        "question": "What is the boiling point of water in Celsius?",
+        "answer": "Hundred"
+      },
+      "43": {
+        "question": "Which animal is known as the king of the jungle?",
+        "answer": "Lion"
+      },
+      "44": {
+        "question": "What do you call molten rock after it has erupted?",
+        "answer": "Lava"
+      },
+      "45": {
+        "question": "Which ocean is the largest?",
+        "answer": "Pacific"
+      },
+      "46": {
+        "question": "What part of the plant conducts photosynthesis?",
+        "answer": "Leaf"
+      },
+      "47": {
+        "question": "Which gas is essential for humans to breathe?",
+        "answer": "Oxygen"
+      },
+      "48": {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Davinci"
+      },
+      "49": {
+        "question": "Which instrument has six strings?",
+        "answer": "Guitar"
+      },
+      "50": {
+        "question": "What planet do we live on?",
+        "answer": "Earth"
+      }
+    },
+    "hard": {
+      "1": {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "answer": "Iron"
+      },
+      "2": {
+        "question": "What is the longest river in the world?",
+        "answer": "Nile"
+      },
+      "3": {
+        "question": "Which scientist developed the theory of relativity?",
+        "answer": "Einstein"
+      },
+      "4": {
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria"
+      },
+      "5": {
+        "question": "What is the capital of New Zealand?",
+        "answer": "Wellington"
+      },
+      "6": {
+        "question": "What is the fear of spiders called?",
+        "answer": "Arachnophobia"
+      },
+      "7": {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answer": "Austen"
+      },
+      "8": {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "answer": "Nitrogen"
+      },
+      "9": {
+        "question": "What is the hardest known substance?",
+        "answer": "Diamond"
+      },
+      "10": {
+        "question": "What is the square root of 144?",
+        "answer": "Twelve"
+      },
+      "11": {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "answer": "Iron"
+      },
+      "12": {
+        "question": "What is the longest river in the world?",
+        "answer": "Nile"
+      },
+      "13": {
+        "question": "Which scientist developed the theory of relativity?",
+        "answer": "Einstein"
+      },
+      "14": {
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria"
+      },
+      "15": {
+        "question": "What is the capital of New Zealand?",
+        "answer": "Wellington"
+      },
+      "16": {
+        "question": "What is the fear of spiders called?",
+        "answer": "Arachnophobia"
+      },
+      "17": {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answer": "Austen"
+      },
+      "18": {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "answer": "Nitrogen"
+      },
+      "19": {
+        "question": "What is the hardest known substance?",
+        "answer": "Diamond"
+      },
+      "20": {
+        "question": "What is the square root of 144?",
+        "answer": "Twelve"
+      },
+      "21": {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "answer": "Iron"
+      },
+      "22": {
+        "question": "What is the longest river in the world?",
+        "answer": "Nile"
+      },
+      "23": {
+        "question": "Which scientist developed the theory of relativity?",
+        "answer": "Einstein"
+      },
+      "24": {
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria"
+      },
+      "25": {
+        "question": "What is the capital of New Zealand?",
+        "answer": "Wellington"
+      },
+      "26": {
+        "question": "What is the fear of spiders called?",
+        "answer": "Arachnophobia"
+      },
+      "27": {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answer": "Austen"
+      },
+      "28": {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "answer": "Nitrogen"
+      },
+      "29": {
+        "question": "What is the hardest known substance?",
+        "answer": "Diamond"
+      },
+      "30": {
+        "question": "What is the square root of 144?",
+        "answer": "Twelve"
+      },
+      "31": {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "answer": "Iron"
+      },
+      "32": {
+        "question": "What is the longest river in the world?",
+        "answer": "Nile"
+      },
+      "33": {
+        "question": "Which scientist developed the theory of relativity?",
+        "answer": "Einstein"
+      },
+      "34": {
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria"
+      },
+      "35": {
+        "question": "What is the capital of New Zealand?",
+        "answer": "Wellington"
+      },
+      "36": {
+        "question": "What is the fear of spiders called?",
+        "answer": "Arachnophobia"
+      },
+      "37": {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answer": "Austen"
+      },
+      "38": {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "answer": "Nitrogen"
+      },
+      "39": {
+        "question": "What is the hardest known substance?",
+        "answer": "Diamond"
+      },
+      "40": {
+        "question": "What is the square root of 144?",
+        "answer": "Twelve"
+      },
+      "41": {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "answer": "Iron"
+      },
+      "42": {
+        "question": "What is the longest river in the world?",
+        "answer": "Nile"
+      },
+      "43": {
+        "question": "Which scientist developed the theory of relativity?",
+        "answer": "Einstein"
+      },
+      "44": {
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria"
+      },
+      "45": {
+        "question": "What is the capital of New Zealand?",
+        "answer": "Wellington"
+      },
+      "46": {
+        "question": "What is the fear of spiders called?",
+        "answer": "Arachnophobia"
+      },
+      "47": {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answer": "Austen"
+      },
+      "48": {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "answer": "Nitrogen"
+      },
+      "49": {
+        "question": "What is the hardest known substance?",
+        "answer": "Diamond"
+      },
+      "50": {
+        "question": "What is the square root of 144?",
+        "answer": "Twelve"
+      }
+    }
+  }
