@@ -315,10 +315,7 @@ const musicSetting = () =>{
                 <View style={styles.developerModalLayout}>
                   <View style={styles.developerModalContent}>
                     <Text style={styles.developerModalTitle}>Developed By</Text>
-                    <Link href={'https://www.instagram.com/aayush_ayer17/'} style={styles.developerModalMember}><Text>Aayush Ayer</Text></Link>
                     <Link href={'https://www.instagram.com/chapaidevraj/'} style={styles.developerModalMember}><Text>Devraj Chapai</Text></Link>
-                    <Link href={'https://www.instagram.com/raman_achhami/'} style={styles.developerModalMember}><Text>Raman Achhami</Text></Link>
-                    <Link href={'https://www.instagram.com/reyman9118/'} style={styles.developerModalMember}><Text>Reyman Khadgi</Text></Link>
                     <View style={styles.developerModalCloseButton}>
                       <TouchableOpacity onPress={()=>setDeveloperModal(false)}>
                         <Image source={require('../assets/icons/close.png')}></Image>
