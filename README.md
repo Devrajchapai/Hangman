@@ -1,50 +1,120 @@
-# Welcome to your Expo app 👋
+# 🪢 Hangman
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A classic **Hangman** word-guessing game built as a mobile app using **React Native** and **Expo**. Written in TypeScript for a clean, type-safe codebase and runs on both Android and iOS.
 
-## Get started
+---
 
-1. Install dependencies
+## 🎮 Gameplay
 
-   ```bash
-   npm install
-   ```
+- A random word is selected and displayed as blank letter slots
+- Guess one letter at a time by tapping on the on-screen keyboard
+- Correct guesses reveal the letter in its position(s)
+- Wrong guesses draw the hangman step by step
+- You have **6 attempts** before the game is over
+- Guess the full word before the hangman is complete to win!
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Features
 
-In the output, you'll find options to open the app in a
+- **Random Word Selection** — A new word is picked every round
+- **On-Screen Keyboard** — Tap letters to make guesses; used letters are disabled
+- **Hangman Drawing** — Visual progression with each wrong guess
+- **Win / Lose Detection** — Clear end-game states with the option to play again
+- **Letter Tracking** — Correctly and incorrectly guessed letters are tracked separately
+- **Cross-Platform** — Runs on Android and iOS via Expo
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠️ Tech Stack
 
-## Get a fresh project
+| Technology | Purpose |
+|---|---|
+| React Native | Cross-platform mobile framework |
+| Expo | Toolchain, build system & file-based routing |
+| TypeScript | Type-safe development |
+| Expo Router | File-based navigation |
 
-When you're ready, run:
+---
+
+## 📁 Project Structure
+
+```
+Hangman/
+│
+├── app/                     # Expo Router screens (file-based routing)
+│   ├── index.tsx            # Main game screen
+│   └── _layout.tsx          # Root layout
+│
+├── assets/                  # Images, fonts, and static files
+│
+├── app.json                 # Expo configuration
+├── tsconfig.json            # TypeScript configuration
+├── eslint.config.js         # ESLint configuration
+└── package.json
+```
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or above)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Expo Go](https://expo.dev/client) app on your phone — for quick testing on a physical device
+- [Android Studio](https://developer.android.com/studio) — for Android emulator (optional)
+- [Xcode](https://developer.apple.com/xcode/) — for iOS simulator (optional, macOS only)
+
+---
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Devrajchapai/Hangman.git
+cd Hangman
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the App
+
+```bash
+npx expo start
+```
+
+In the terminal output you'll see a QR code. From there you can open the app in:
+
+- **Expo Go** — scan the QR code with your phone
+- **Android Emulator** — press `a`
+- **iOS Simulator** — press `i` *(macOS only)*
+- **Web browser** — press `w`
+
+---
+
+## 🔄 Reset to Blank Project
+
+If you want to start fresh:
 
 ```bash
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This moves the starter code to `app-example/` and creates a clean `app/` directory.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 👤 Author
 
-## Join the community
+**Devraj Chapai**
 
-Join our community of developers creating universal apps.
+- GitHub: [@Devrajchapai](https://github.com/Devrajchapai)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+> ⭐ If you found this project fun, please consider giving it a star!
